@@ -1,6 +1,6 @@
 # apksmart - Aplikasi Sistem Pendukung Keputusan
 
-Aplikasi ini dibuat untuk [jelaskan tujuan utama aplikasi secara singkat, misal: membantu menentukan kelayakan suatu objek berdasarkan kriteria tertentu menggunakan metode SMART (Simple Multi-Attribute Rating Technique)].
+Aplikasi ini dibuat untuk membantu menentukan kelayakan pengerjaan proyek berdasarkan kriteria tertentu menggunakan metode SMART (Simple Multi-Attribute Rating Technique).
 
 ---
 
@@ -11,7 +11,6 @@ Aplikasi ini dibuat untuk [jelaskan tujuan utama aplikasi secara singkat, misal:
 * Menampilkan hasil akhir dalam bentuk tabel yang mudah dibaca.
 
 ## 📸 Tampilan Aplikasi (Screenshot)
-
 Beranda
 ![Image](https://github.com/user-attachments/assets/d0d321a2-8cca-47a1-8d50-a92ebe45f32d)
 
@@ -53,6 +52,6 @@ Help Center
     ```bash
     flutter run
     ```
-**Docs:** Menambahkan screenshot aplikasi
+**Docs:** Memperbaiki README.md
 
 ---
